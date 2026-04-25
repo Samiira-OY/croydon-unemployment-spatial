@@ -5,6 +5,13 @@
 This project analyses spatial inequalities in unemployment across Croydon at Lower Super Output Area (LSOA) level, combining 2021 Census data with the Index of Multiple Deprivation (IMD 2025). The analysis moves beyond borough-wide averages to identify where unemployment clusters, how it relates to deprivation, and where that relationship is strongest — with direct implications for spatially targeted employment policy.
 
 ---
+##  Full Report
+
+**[→ View full report with maps and analysis](./Report%20Spatial%20Analysis%20of%20unemployment%20in%20Croydon%20London.pdf)**
+
+Includes executive summary, choropleth maps, LISA cluster analysis, GWR outputs, and full technical appendix.
+
+---
 
 ## Key Findings
 
