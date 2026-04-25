@@ -7,7 +7,7 @@ This project analyses spatial inequalities in unemployment across Croydon at Low
 ---
 ##  Full Report
 
-**[→ View full report with maps and analysis](./Report%20Spatial%20Analysis%20of%20unemployment%20in%20Croydon%20London.pdf)**
+**[→ View full report with maps and analysis](./Report%20Spatial%20Analysis%20of%20unemployment%20in%20Croydon%2CLondon.pdf)**
 
 Includes executive summary, choropleth maps, LISA cluster analysis, GWR outputs, and full technical appendix.
 
